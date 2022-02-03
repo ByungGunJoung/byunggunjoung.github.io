@@ -1,4 +1,3 @@
-
 I am a Ph.D. student at Purdue EEE, advised by Prof. John Sutherland. My primary research focuses on developing predictive models with Machine Learning and AI as well as deploying sensors and IoT technology to mainstream the data pipelining for predictive maintenance (PdM).
 
 
