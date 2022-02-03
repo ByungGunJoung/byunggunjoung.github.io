@@ -28,4 +28,4 @@ Advisor: John William Sutherland, the head of Environmental and Ecological Engin
 
 **CV**
 ------
-Here is my CV['./CV_jan2022_updated']
+Here is my CV[CV_jan_2022_updated.pdf]
