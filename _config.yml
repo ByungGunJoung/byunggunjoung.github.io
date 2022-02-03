@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ph.D. student in Environmental & Ecological Engineering at Purdue University "
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Byunggun Joung"
+description              : &description "Research Assistant at Purdue University"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://byunggunjoung.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Byunggun Joung"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "As a research assistant funded by the Wabash Heartland Innovation Network (WHIN) project which aims to provide technical support for Indiana manufacturing companies, my primary research focuses on developing predictive models with Machine Learning and AI as well as deploying sensors and IoT technology to mainstream the data pipelining for predictive maintenance (PdM). Data pipelining includes the identification of sensors, sensor deployment considering the environment in which the sensor will be deployed, development of a reliable and secure database to efficiently utilize the collected data, data visualization/interpretation using data visualization tools (e.g., Power BI, Grafana, etc.). I’m also actively working with project partners to provide technical support for identifying/solving real-world manufacturing problems (e.g., Anomalies/failures of manufacturing machines and improving maintenance scheduling based on the data-driven techniques, etc.). During master program, I mainly studied electrical engineering and semiconductor technology in an analog circuit design lab. In my undergraduate, I studied computer science and computer engineering. My acquired skills based on computer science includes programming languages such as Python and C, and mathematical tools (e.g., MATLAB). "
+  location         : "West Lafayette"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=pBUnRo4AAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # example: "https://www.researchgate.net/profile/Byung-Gun-Joung"
   uri              :
   bitbucket        :
   codepen          :
