@@ -1,7 +1,8 @@
+
 I am a Ph.D. student at Purdue EEE, advised by Prof. John Sutherland. My primary research focuses on developing predictive models with Machine Learning and AI as well as deploying sensors and IoT technology to mainstream the data pipelining for predictive maintenance (PdM).
 
 
-**Education**
+Education
 ------
 B.S. Computer Communication Engineering, Korea University, 2016
 Engineering Visiting Program, Hong Kong Univ. of Sci. & Tech, 2015
@@ -10,12 +11,13 @@ Advisor: Chulwoo Kim, Ph.D. in Electrical and Computer Engineering, Head of Depa
 Ph.D. Environmental and Ecological Engineering, Purdue University, 2018
 Advisor: John William Sutherland, the head of Environmental and Ecological Engineering at Purdue University
 
-**Publication **
-[1] B. G. Joung, Y. Seo and C. Kim, "A Digital Low-Dropout (DLDO) regulator with -14 dB PSR enhancement technique," IEEE SoC Design Conference (ISOCC), Oct 2016, pp. 353-354
-[2] Byung Gun Joung, Wo Jae Lee, Aihua Huang, John W. Sutherland, “Development and Application of a Method for Real Time Motor Fault Detection”, Procedia Manufacturing, Volume 49, 2020, pp. 94-98
-[3] Dheeraj Peddireddy, Xingyu Fu, Haobo Wang, Byung Gun Joung, Vaneet Aggarwal, John W. Sutherland, Martin Byung-Guk Jun, “Deep Learning Based Approach for Identifying Conventional Machining Processes from CAD Data”, Procedia Manufacturing, Volume 48, 2020, pp. 915-925
-[4] Dheeraj Peddireddy, Xingyu Fu, Anirudh Shankar, Haobo Wang, Byung Gun Joung, Vaneet Aggarwal, John W. Sutherland, Martin Byung-Guk Jun, “Identifying manufacturability and machining processes using deep 3D convolutional networks”, Journal of Manufacturing Processes, Volume 64, 2021, pp.1336-1348
+Publication
+------
+[1] B. G. Joung, Y. Seo and C. Kim, "A Digital Low-Dropout (DLDO) regulator with -14 dB PSR enhancement technique," IEEE SoC Design Conference (ISOCC), Oct 2016, pp. 353-354 [paper](https://www.researchgate.net/publication/311979188_A_digital_low-dropoutDLDO_regulator_with_14dB_power_supply_rejection_enhancement)
+[2] Byung Gun Joung, Wo Jae Lee, Aihua Huang, John W. Sutherland, “Development and Application of a Method for Real Time Motor Fault Detection”, Procedia Manufacturing, Volume 49, 2020, pp. 94-98 [paper](https://reader.elsevier.com/reader/sd/pii/S2351978920316541?token=E636D40E1A11C1C6B6C09082D099D7497D648E98A72953A80B1A4D657EE7C5D884378C2DB22BB20D2DF04438717272D3&originRegion=us-east-1&originCreation=20220203211954)
+[3] Dheeraj Peddireddy, Xingyu Fu, Haobo Wang, Byung Gun Joung, Vaneet Aggarwal, John W. Sutherland, Martin Byung-Guk Jun, “Deep Learning Based Approach for Identifying Conventional Machining Processes from CAD Data”, Procedia Manufacturing, Volume 48, 2020, pp. 915-925 [paper](https://reader.elsevier.com/reader/sd/pii/S2351978920315821?token=9489969050D3FB05ACA4FB174C9A4A654FC01766209DE76F5238C4B4FAAB8908FE50B31D534876D4FD945A17037EB9C6&originRegion=us-east-1&originCreation=20220203212148)
+[4] Dheeraj Peddireddy, Xingyu Fu, Anirudh Shankar, Haobo Wang, Byung Gun Joung, Vaneet Aggarwal, John W. Sutherland, Martin Byung-Guk Jun, “Identifying manufacturability and machining processes using deep 3D convolutional networks”, Journal of Manufacturing Processes, Volume 64, 2021, pp.1336-1348 [paper](https://www.sciencedirect.com/science/article/pii/S1526612521001201?casa_token=HuajXHhxl14AAAAA:92E5f2_G6I_KTVs3NWiB2FukhzygNErrv5aiTQ7sfnC3oORFjTIlZE1lxypKde8yO6m3kngI8w)
 
-**CV**
+CV
 ------
 Here is my [CV](https://github.com/ByungGunJoung/byunggunjoung.github.io/blob/master/CV_Jan_2022_updated.pdf)
