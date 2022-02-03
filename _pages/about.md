@@ -1,12 +1,3 @@
----
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 I am a Ph.D. student at Purdue EEE, advised by Prof. John Sutherland. My primary research focuses on developing predictive models with Machine Learning and AI as well as deploying sensors and IoT technology to mainstream the data pipelining for predictive maintenance (PdM).
 
