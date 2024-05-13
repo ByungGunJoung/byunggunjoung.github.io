@@ -1,5 +1,5 @@
 
-I am a Ph.D. student at Purdue EEE, advised by Prof. John Sutherland. My primary research focuses on developing predictive models with Machine Learning and AI as well as deploying sensors and IoT technology to mainstream the data pipelining for predictive maintenance (PdM).
+I am a Ph.D. student at Purdue EEE, advised by Prof. Sutherland. I received my Bachelor's degree in CSE at Korea University. and I earned my M.S. degree in EE at Korea University advised by Prof. Kim. My research is focused on Smart & Sustainable Manufacturing technologies enabled by data-driven techniques such as Artificial Intelligence (AI).
 
 
 Education
