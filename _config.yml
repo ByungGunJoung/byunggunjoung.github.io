@@ -11,9 +11,9 @@ title                    : "Byunggun Joung "
 title_separator          : "-"
 name                     : &name "Byunggun Joung"
 description              : &description "Research Assistant at Purdue University"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://byunggunjoung.github.io"
+url                      : https://byunggunjoung.github.io # the base hostname & protocol for your site e.g. "https://byunggunjoung.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://byunggunjoung.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Byunggun Joung"
   avatar           : "photo.jpg"
-  bio              : ""
-  location         : "West Lafayette"
+  bio              : "I am a Ph.D. student at Purdue EEE, advised by Prof. Sutherland. I received my Bachalor's degree in CSE at Korea University. and I earned my M.S. degree in EE at Korea University advised by Prof. Kim. My research is focused on Smart & Sustainable Manufacturing technologies enabled by data-driven techniques such as Artificial Intelligence (AI)."
+  location         : "West Lafayette, Purdue University"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=pBUnRo4AAAAJ&hl=en"
+  pubmed           : ""
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=pBUnRo4AAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/Byung-Gun-Joung"
   uri              :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : #""
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-0992-7534"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
