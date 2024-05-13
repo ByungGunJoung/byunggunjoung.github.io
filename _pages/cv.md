@@ -11,30 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in ECS, Korea University, 2016
+* M.S. in EE, Korea University, 2018
+* Ph.D in EEE, Purdue University, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2018 - present: Research Assistant
+  * Purdue University
+  * Duties included: 1. Develop/Deploy smart manufacturing technologies 2.Interact with industry partners to leverage SM tech. in their manufacturing floor 3. Prepare Journal/Conference papers to present research work
+  * Supervisor: Professor John W. Sutherland
+* Sping 2018: Senior Researcher
+  * SK Hynix
+  * Duties included: Design CIS 
+* 2016 - 2018: Research Assistant
+  * Korea University
+  * Duties included: Design Integrated Circuits, Prepare Journal/Conference papers
+  * Supervisor: Professor Kim, Chul Woo
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python and MATLAB
+* Data Management/Engineering
+  * SQL based Data Engineering/Management – MySQL etc.
+  * Proficiency in Data Acquisition – Data Communication Interfaces
+  * Programming on Cloud Computing Platforms – Google Cloud, Microsoft Azure
+* Data Analysis – Statistics, Machine Learning/Artificial Intelligence
 
 Publications
 ======
