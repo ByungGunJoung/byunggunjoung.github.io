@@ -83,7 +83,9 @@ author:
   name             : "Byunggun Joung"
   avatar           : "Joung, ByungGun.jpg"
   bio              : ""
-  location         : "West Lafayette, Purdue University"
+  location         : "Purdue University, West Lafayette, IN"
+  phone            : "(+1) 765-701-8802"
+  email            : "bjoung@purdue.edu"
   employer         :
   pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=pBUnRo4AAAAJ"
@@ -96,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://byunggunjoung.github.io/"
   google_plus      :
   keybase          :
   instagram        :
